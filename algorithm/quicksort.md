@@ -21,4 +21,4 @@ public static void quickSort(int[] arr, int left, int right) {
         quickSort(arr, low + 1, right);
     }
 ```
-### [返回首页](./README.md)
+### [返回首页](./../README.md)
